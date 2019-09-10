@@ -26,4 +26,4 @@ From above list it may seem to you that not much is happening here, but trust me
 - lifecycle methods 
 - best practices
 
-[### Full Tutorial here](http://devhoot.ooo/learn-react-with-a-project-for-beginners/)
+[Full Tutorial here](http://devhoot.ooo/learn-react-with-a-project-for-beginners/)
